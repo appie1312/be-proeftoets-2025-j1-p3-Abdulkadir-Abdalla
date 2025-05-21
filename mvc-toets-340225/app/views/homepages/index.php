@@ -13,6 +13,7 @@
             <a href="<?= URLROOT; ?>/smartphones/index">Toon smartphones</a> 
             <a href="<?= URLROOT; ?>/sneakers/index">Mooiste Sneakers</a>
             <a href="<?= URLROOT; ?>/zangeres/index">Rijkste Zangeressen</a>
+            <a href="<?= URLROOT; ?>/Vulkaan/index">top 5 vulkanen</a>
 
 
         </div>
